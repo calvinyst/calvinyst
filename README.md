@@ -2,7 +2,7 @@
 During my **Master of Data Science** candidacy at the **Higher School of Economics (Moscow, Russia)** in 2022, I actively contributed core machine learning components to the **[LostPetInitiative](https://github.com/LostPetInitiative)** organization to help reunite lost pets with their owners.
 [TeeYS_Thesis_Defense_v4.pptx](https://github.com/user-attachments/files/28152525/TeeYS_Thesis_Defense_v4.pptx)
 
-### 🤝 Data Science Coursework Project: IMDB Data Scraping (2021)
+### 🤝 Coursework Project: IMDB Data Scraping (2021)
 I completed a data scraping project, as part of my Master of Data Science Coursework.
 [Data_Scraping_Submission.html](https://github.com/user-attachments/files/28152628/Data_Scraping_Submission.html)
 
