@@ -18,10 +18,10 @@ Coursework submission demonstrating SQL competencies.
 Professional Hobby Project, vibe-coded using Google Antigravity in Apr 2026.
 https://github.com/user-attachments/assets/3f53f131-1b76-4d8a-973d-1a669e7f208e
 
-###  🤝 Fun with AI Videos and Images of Me
-**Video:**
+###  🤝 AI Video of me
 https://github.com/user-attachments/assets/ef537f22-efe4-47dd-ac61-281fd0c37bb2
-**Images:**
+
+###  🤝 AI Images of me
 <img width="1024" height="1024" alt="Ghibli Style Photo - Harley" src="https://github.com/user-attachments/assets/60bf9a99-28d4-4aa0-8b34-d6bb7920ae94" />
 <img width="1536" height="1024" alt="Ghibli Style Photo" src="https://github.com/user-attachments/assets/98dbe92d-9578-4aa5-bc30-c65ae14d7cc3" />
 
