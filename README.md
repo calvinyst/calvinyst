@@ -13,7 +13,7 @@ I completed a data scraping project, as part of my Master of Data Science Course
 ### 🤝 Coursework: SQL / Big Data
 [Final-task-ver-2.pdf](https://github.com/user-attachments/files/28152761/Final-task-ver-2.pdf)\
 [SQL SGA - Submission by TEE Yu Shiang.docx](https://github.com/user-attachments/files/28152753/SQL.SGA.-.Submission.by.TEE.Yu.Shiang.docx)\
-[wk6_titanic.ipynb](https://github.com/user-attachments/files/28156072/wk6_titanic.ipynb)[wk6_wine.ipynb](https://github.com/user-attachments/files/28156100/wk6_wine.ipynb)\
+[wk6_titanic.ipynb](https://github.com/user-attachments/files/28156072/wk6_titanic.ipynb)\
 [wk6_wine.ipynb](https://github.com/user-attachments/files/28156207/wk6_wine.ipynb)\
 [LSML1_Final_Submission_TeeYS.zip](https://github.com/user-attachments/files/28156273/LSML1_Final_Submission_TeeYS.zip)
 
