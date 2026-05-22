@@ -3,7 +3,7 @@ During my **Master of Data Science** candidacy at the **Higher School of Economi
 Defence Slides: [TeeYS_Thesis_Defense_v4.pptx](https://github.com/user-attachments/files/28152525/TeeYS_Thesis_Defense_v4.pptx)
 
 ### 🤝 Telemetry Player - "ECG" for Operational Heartbeat
-Professional Hobby Project, vibe-coded using Google Antigravity in Apr 2026.
+Professional Hobby Project, vibe-coded using Google Antigravity in Apr 2026.\
 https://github.com/user-attachments/assets/3f53f131-1b76-4d8a-973d-1a669e7f208e
 
 ### 🤝 Coursework: IMDB Data Scraping 
