@@ -1,10 +1,3 @@
-###  🤝 AI Video of me
-https://github.com/user-attachments/assets/ef537f22-efe4-47dd-ac61-281fd0c37bb2
-
-###  🤝 AI Images of me
-<img width="1024" height="1024" alt="Ghibli Style Photo - Harley" src="https://github.com/user-attachments/assets/60bf9a99-28d4-4aa0-8b34-d6bb7920ae94" />
-<img width="1536" height="1024" alt="Ghibli Style Photo" src="https://github.com/user-attachments/assets/98dbe92d-9578-4aa5-bc30-c65ae14d7cc3" />
-
 ### 🤝 Academic Contributions 
 During my **Master of Data Science** candidacy at the **Higher School of Economics (Moscow, Russia)** in 2022, I actively contributed core machine learning components to the **[LostPetInitiative](https://github.com/LostPetInitiative)** organization to help reunite lost pets with their owners.
 [TeeYS_Thesis_Defense_v4.pptx](https://github.com/user-attachments/files/28152525/TeeYS_Thesis_Defense_v4.pptx)
@@ -38,5 +31,13 @@ Coursework submission demonstrating SQL competencies.
 
 ###  🤝 Coursework: Time Series Forecasting
 [Week_2_Submission_YSTee_v1.ipynb](https://github.com/user-attachments/files/28156404/Week_2_Submission_YSTee_v1.ipynb)
+
+###  🤝 AI Video of me
+https://github.com/user-attachments/assets/ef537f22-efe4-47dd-ac61-281fd0c37bb2
+
+###  🤝 AI Images of me
+<img width="1024" height="1024" alt="Ghibli Style Photo - Harley" src="https://github.com/user-attachments/assets/60bf9a99-28d4-4aa0-8b34-d6bb7920ae94" />
+<img width="1536" height="1024" alt="Ghibli Style Photo" src="https://github.com/user-attachments/assets/98dbe92d-9578-4aa5-bc30-c65ae14d7cc3" />
+
 
 
