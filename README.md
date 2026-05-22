@@ -11,7 +11,6 @@ I completed a data scraping project, as part of my Master of Data Science Course
 [Data_Scraping_Submission.html](https://github.com/user-attachments/files/28152628/Data_Scraping_Submission.html)
 
 ### 🤝 Coursework: SQL / Big Data
-Coursework submission demonstrating SQL competencies.
 [Final-task-ver-2.pdf](https://github.com/user-attachments/files/28152761/Final-task-ver-2.pdf)\
 [SQL SGA - Submission by TEE Yu Shiang.docx](https://github.com/user-attachments/files/28152753/SQL.SGA.-.Submission.by.TEE.Yu.Shiang.docx)\
 [wk6_titanic.ipynb](https://github.com/user-attachments/files/28156072/wk6_titanic.ipynb)[wk6_wine.ipynb](https://github.com/user-attachments/files/28156100/wk6_wine.ipynb)\
