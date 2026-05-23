@@ -54,7 +54,7 @@ Data pipeline orchestration, complex relational algebra, and large-scale data wr
 
 Here is a look at some experiments with generative AI media models, bringing digital avatars to life.
 
-| 🎬 Interactive AI Video Avatar | 🎨 Ghibli-Style Aesthetic Reimagining |
+| 🎬 AI Video Avatar | 🎨 Anime-style Aesthetic Reimagining |
 | :---: | :---: |
 | [![AI Video](https://img.shields.io/badge/🎥_Watch_AI_Avatar_Video-Click_Here-blueviolet?style=for-the-badge)](https://github.com/user-attachments/assets/ef537f22-efe4-47dd-ac61-281fd0c37bb2) | <img src="https://github.com/user-attachments/assets/60bf9a99-28d4-4aa0-8b34-d6bb7920ae94" width="350" alt="Ghibli Style - Motorcycle Custom" /><br><img src="https://github.com/user-attachments/assets/98dbe92d-9578-4aa5-bc30-c65ae14d7cc3" width="350" alt="Ghibli Style Portrait" /> |
 
