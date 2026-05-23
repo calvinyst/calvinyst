@@ -27,7 +27,7 @@ Focused on computer vision, clustering mechanics, and advanced algorithmic imple
 * 🔢 [MNIST Handwritten Digit Recognition (IPYNB)](https://github.com/user-attachments/files/28152871/MNIST.recognition.final.ipynb)
 * 🧠 [Core Machine Learning Architecture & Analysis (IPYNB)](https://github.com/user-attachments/files/28155796/project_description_CT_v2.ipynb)
 * 🧬 [Advanced Clustering Mechanics & Applications (IPYNB)](https://github.com/user-attachments/files/28155914/clustering_task.ipynb)
-* 🧪 [ML Evaluation Frameworks & SGA Submission (IPYNB)](https://github.com/user-attachments/files/28156156/ML.Week.6.SGA.Submission.-.Tee.Yu.Shiang.ipynb)
+* 🧪 [ML Evaluation Frameworks (IPYNB)](https://github.com/user-attachments/files/28156156/ML.Week.6.SGA.Submission.-.Tee.Yu.Shiang.ipynb)
 
 ### 📊 Probability & Statistical Inference
 Statistical modeling, Bayesian analysis, and empirical testing.
