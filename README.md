@@ -13,7 +13,7 @@ Welcome to my portfolio! This space showcases a collection of my core academic r
 
 ### 📈 Telemetry Player — "ECG" for Operational Heartbeat
 *Professional Hobby Project (April 2026).*
-* **Concept:** A real-time telemetry playback engine acting as an operational "ECG" system to visualize and diagnose complex data latency and workflows.
+* **Concept:** A telemetry playback engine acting as an operational "ECG" system to visualize and diagnose complex data latency and workflows.
 * **Tech Stack:** Vibe-coded utilizing Google Antigravity.
 * **Demo:** 🎥 [Watch the Telemetry Player in Action](https://github.com/user-attachments/assets/3f53f131-1b76-4d8a-973d-1a669e7f208e)
 
@@ -30,7 +30,7 @@ Focused on computer vision, clustering mechanics, and advanced algorithmic imple
 * 🧪 [ML Evaluation Frameworks & SGA Submission (IPYNB)](https://github.com/user-attachments/files/28156156/ML.Week.6.SGA.Submission.-.Tee.Yu.Shiang.ipynb)
 
 ### 📊 Probability & Statistical Inference
-Rigorous statistical modeling, Bayesian analysis, and empirical testing.
+Statistical modeling, Bayesian analysis, and empirical testing.
 * 📐 [Foundational Statistical Analysis & Modeling (IPYNB)](https://github.com/user-attachments/files/28156022/final-project_statistics_basic_TeeYS.ipynb)
 * 🎲 [Bayesian Inference & Modeling Frameworks (IPYNB)](https://github.com/user-attachments/files/28155761/Bayes_Final_Submission_YSTee_20220319.ipynb)
 * 🧩 [Clustering Verification & Statistical Foundations (IPYNB)](https://github.com/user-attachments/files/28155963/clustering_task.ipynb)
