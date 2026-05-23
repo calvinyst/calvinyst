@@ -1,4 +1,4 @@
-# 🚀 Digital and Data Science Portfolio | Tee Yu Shiang (Calvin)
+# 🚀 Digital and Data Science Portfolio | Calvin Y.S. Tee
 
 Welcome to my portfolio! This space showcases a collection of my core academic research, open-source contributions, professional hobby projects, and advanced data science coursework.
 
