@@ -43,7 +43,6 @@ Data pipeline orchestration, complex relational algebra, and large-scale data wr
 * 🏛️ [SQL Capstone (DOCX)](https://github.com/user-attachments/files/28152753/SQL.SGA.-.Submission.by.TEE.Yu.Shiang.docx)
 * 📉 [Titanic Survivorship Feature Engineering (IPYNB)](https://github.com/user-attachments/files/28156072/wk6_titanic.ipynb)
 * 🍷 [Wine Classification Data Virtualization & Pipelines (IPYNB)](https://github.com/user-attachments/files/28156207/wk6_wine.ipynb)
-* 📋 [Big Data Infrastructure & Analytics Final Capstone (PDF)](https://github.com/user-attachments/files/28152761/Final-task-ver-2.pdf)
 
 ### ⏱️ Time Series Forecasting
 * 🔮 [Predictive Analytics & Temporal Feature Modeling (IPYNB)](https://github.com/user-attachments/files/28156404/Week_2_Submission_YSTee_v1.ipynb)
